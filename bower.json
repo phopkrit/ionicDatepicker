@@ -1,0 +1,33 @@
+{
+  "name": "ionic-datetimepicker",
+  "version": "1.0.0",
+  "authors": [
+    "Phopkrit Y."
+  ],
+  "description": "ionicDatepicker - A datepicker for Ionic Framework",
+  "main": [
+    "./dist/ionicDatepicker.js"
+  ],
+  "keywords": [
+    "ionic-datepicker",
+    "ionic",
+    "datepicker",
+    "datepicker for ionic",
+    "datepicker for ionic framework"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "publish",
+	"src",
+	".gitignore",
+	"bower.json",
+	"gulpfile.js",
+	"licence.txt",
+	"package.json",
+	"README.md"
+  ],
+  "dependencies": {
+    "ionic": ">=1.0.0"
+  }
+}
